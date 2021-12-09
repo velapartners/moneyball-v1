@@ -4,7 +4,7 @@
 
 ## Description
 
-A startup classifier that decides whether a given startup will be successful. Uses two datasets of successful and unsuccessful companies that Vela Partners have provided.
+A startup classifier that predicts whether a given startup will be successful. Uses two datasets of successful and unsuccessful companies that Vela Partners have provided.
 
 ## Methodology
 
