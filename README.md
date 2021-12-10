@@ -1,6 +1,6 @@
 # Startup Classifier
 
-> Code and documentation for the startup classifier for Viktor Kozhuharov's internship in Vela Partners.
+> Code and academic paper for startup classifier. For Viktor Kozhuharov's internship in Vela Partners, with Yigit Ihlamur as a supervisor.
 
 ## Description
 
